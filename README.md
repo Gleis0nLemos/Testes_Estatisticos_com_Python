@@ -1,12 +1,17 @@
 ### Data Science: Testes estatísticos com Python
     Curso da Formação: Data Science, Por #Alura
 
-#### Resumo da AULA 06:
+#### Sumário das aulas:
 
 ###
-    - Utilizar o seaborn para mostrar gráfico;
-    - Agrupar os valores;
-    - Comparar médias diferentes;
-    - Utilizar o normaltest;
-    - Teste não paramétrico;
-    - Utilizar o ranksums.
+    - Conhecendo os dados e explorando Ver primeiro vídeo;
+###
+    - Explorando as distribuições das amostras;
+###
+    - Testes de uma amostra;
+###
+    - Outros testes;
+###
+    - Testes para duas amostras;
+###
+    - Não paramétricos.
